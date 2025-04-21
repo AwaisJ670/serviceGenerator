@@ -1,0 +1,41 @@
+{
+    "name": "codebider/service-generator",
+    "description": "A Laravel package to generate service classes using an Artisan command.",
+    "keywords": ["laravel", "service", "artisan", "generator"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Awais Javaid",
+            "email": "info.awaisjavaid@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "illuminate/support": "^8.0 || ^9.0 || ^10.0 || ^11.0 || ^12.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^8.0 || ^9.0 || ^10.0 || ^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeBider\\ServiceGenerator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CodeBider\\ServiceGenerator\\ServiceGeneratorServiceProvider"
+            ]
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CodeBider\\ServiceGenerator\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
