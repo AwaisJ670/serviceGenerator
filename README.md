@@ -1,10 +1,8 @@
-![Laravel Service Generator](https://banners.beyondco.de/Service%20Generator%20Tool.png?theme=dark&packageManager=composer+require&packageName=codebider%2Fservice-generator&pattern=zigZag&style=style_1&description=This+can+make+a+service+in+laravel+projects.&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
-
-![Packagist Downloads](https://img.shields.io/packagist/dt/codebider/generate-crud)
+![Laravel Service Generator](https://banners.beyondco.de/Service%20Generator%20Tool.png?theme=dark&packageManager=composer+require&packageName=codebider%2Fservice-generator-tool&pattern=zigZag&style=style_1&description=This+can+make+a+service+in+laravel+projects.&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 
 
-![Packagist Downloads](https://img.shields.io/packagist/dt/codebider/service-generator)
-![Packagist Version](https://img.shields.io/packagist/v/codebider/service-generator)
+![Packagist Downloads](https://img.shields.io/packagist/dt/codebider/service-generator-tool)
+![Packagist Version](https://img.shields.io/packagist/v/codebider/service-generator-tool)
 # Laravel Service Generator
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
