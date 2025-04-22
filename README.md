@@ -1,4 +1,7 @@
-![Laravel Service Generator] (https://banners.beyondco.de/Service%20Generator%20Tool.png?theme=dark&packageManager=composer+require&packageName=codebider%2Fservice-generator&pattern=architect&style=style_1&description=This+can+make+a+service+in+laravel+projects.&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
+![Laravel Service Generator](https://banners.beyondco.de/Service%20Generator%20Tool.png?theme=dark&packageManager=composer+require&packageName=codebider%2Fservice-generator&pattern=zigZag&style=style_1&description=This+can+make+a+service+in+laravel+projects.&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
+
+![Packagist Downloads](https://img.shields.io/packagist/dt/codebider/generate-crud)
+
 
 ![Packagist Downloads](https://img.shields.io/packagist/dt/codebider/service-generator)
 ![Packagist Version](https://img.shields.io/packagist/v/codebider/service-generator)
