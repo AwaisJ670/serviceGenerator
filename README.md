@@ -18,7 +18,7 @@ A simple yet powerful Laravel package to generate service classes using an Artis
 You can install the package via Composer:
 
 ```bash
-composer require codebider/service-generator
+composer require codebider/service-generator-tool
 ```
 
 If you’re using Laravel < 5.5, add the service provider manually in `config/app.php`:

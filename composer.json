@@ -1,5 +1,5 @@
 {
-    "name": "codebider/service-generator",
+    "name": "codebider/service-generator-tool",
     "description": "A Laravel package to generate service classes using an Artisan command.",
     "keywords": ["laravel", "service", "artisan", "generator"],
     "license": "MIT",
